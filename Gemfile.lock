@@ -27,12 +27,7 @@ GEM
     execjs (2.9.1)
     faraday (2.0.0)
       ruby2_keywords (>= 0.0.4)
-    ffi (1.17.0-aarch64-linux)
-    ffi (1.17.0-arm-linux)
-    ffi (1.17.0-arm64-darwin)
-    ffi (1.17.0-x86-linux)
-    ffi (1.17.0-x86_64-darwin)
-    ffi (1.17.0-x86_64-linux)
+    ffi (1.17.3)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     github-pages (231)
@@ -266,10 +261,18 @@ GEM
 
 PLATFORMS
   aarch64-linux
+  aarch64-linux
+  aarch64-linux
+  arm-linux
+  arm-linux
   arm-linux
   arm64-darwin
   x86-linux
+  x86-linux
+  x86-linux
   x86_64-darwin
+  x86_64-linux
+  x86_64-linux
   x86_64-linux
 
 DEPENDENCIES
