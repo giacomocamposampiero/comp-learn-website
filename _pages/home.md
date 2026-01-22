@@ -67,6 +67,15 @@ acknowledgements: ""
       <h6>Michigan State University</h6>
     </div>
   </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.cse.msu.edu/~kordjams/">
+      <img class="people-pic" src="{{ "/static/img/people/samy.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://bengio.abracadoudou.com">Samy Bengio</a>
+      <h6>Apple, EPFL</h6>
+    </div>
+  </div>
 </div>
 
 
@@ -162,12 +171,42 @@ acknowledgements: ""
 <div class="row" id="schedule">
     <h2>Schedule</h2>
 </div>
+<p>Morning session</p>
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
     <tbody>
-    <tr> <th scope="row">08:25 AM</th> <td>Opening Remarks</td></tr>
+    <tr> <th scope="row">08:00 AM</th> <td>Poster Setup</td></tr>
+    <tr> <th scope="row">08:15 AM</th> <td>Opening Remarks</td></tr>
+    <tr> <th scope="row">08:20 AM</th> <td>
+      Spotlight Talk: ###<br /> TBD
+      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
+      <!-- <div class="collapse" id="schedule-talk2">
+        Abstract: .
+      </div> -->
+    </td></tr>
     <tr> <th scope="row">08:30 AM</th> <td>
+      Spotlight Talk: ###<br />TBD
+      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
+      <!-- <div class="collapse" id="schedule-talk2">
+        Abstract: .
+      </div> -->
+    </td></tr>
+    <tr> <th scope="row">08:40 AM</th> <td>
+      Spotlight Talk: ###<br />TBD
+      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
+      <!-- <div class="collapse" id="schedule-talk2">
+        Abstract: .
+      </div> -->
+    </td></tr>
+    <tr> <th scope="row">08:50 AM</th> <td>
+      Spotlight Talk: ###<br />TBD
+      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
+      <!-- <div class="collapse" id="schedule-talk2">
+        Abstract: .
+      </div> -->
+    </td></tr>
+    <tr> <th scope="row">9:00 AM</th> <td>
       Invited Talk: Francesco Locatello<br />TBD
       <!-- <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a> -->
       <!-- <a target="_blank" href="/static/slides-2021/roger_levy.pdf">[Slides]</a> -->
@@ -175,35 +214,60 @@ acknowledgements: ""
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row">09:00 AM</th> <td>
+    <tr> <th scope="row">9:35 AM</th> <td>
       Invited Talk: Nohua Dziri<br />TBD
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row">09:30 AM</th> <td>
-      Spotlight Talk: ###<br /> TBD
+    <tr> <th scope="row" >10:10 AM</th> <td>Coffee Break</td></tr>
+    <tr> <th scope="row">10:20 AM</th> <td>
+      Invited Talk: Parisa Kordjamshidi<br />TBD
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row">09:45 AM</th> <td>
-      Spotlight Talk: ###<br />TBD
+    <tr> <th scope="row">10:55 AM</th> <td>
+      Invited Talk: Samy Bengio<br />TBD
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row" >10:30 AM</th> <td>Break 1</td></tr>
-    <tr> <th scope="row" data-time="12:30">12:30 PM</th> <td>Break 2</td></tr>
-    <tr> <th scope="row" data-time="13:00">13:00 PM</th> <td>Panel Discussion</td> </tr>
-    <tr> <th scope="row" data-time="19:30">19:30 PM</th> <td>Closing Remark</td> </tr>
+    <tr> <th scope="row" >11:30 AM</th> <td>Poster Session 1</td></tr>
+    <tr> <th scope="row" >12:30 PM</th> <td>Lunch Break</td></tr>
     </tbody>
     </table>
   </div>
 </div>
+<p>Afternoon session</p>
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+    <tbody>
+    <tr> <th scope="row">1:30 PM</th> <td>
+      Invited Talk: TBD<br />TBD
+      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
+      <!-- <div class="collapse" id="schedule-talk2">
+        Abstract: .
+      </div> -->
+    </td></tr>
+    <tr> <th scope="row">2:05 PM</th> <td>
+      Invited Talk: TBD<br />TBD
+      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
+      <!-- <div class="collapse" id="schedule-talk2">
+        Abstract: .
+      </div> -->
+    </td></tr>
+    <tr> <th scope="row" >2:40 PM</th> <td>Panel Discussion</td></tr>
+    <tr> <th scope="row" >4:00 PM</th> <td>Poster Session 2</td></tr>
+    </tbody>
+    </table>
+  </div>
+</div>
+
 
 <hr />
 
