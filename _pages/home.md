@@ -40,7 +40,7 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://www.francescolocatello.com/">
       <img class="people-pic" src="{{ "/static/img/people/fra.jpg" | prepend:site.baseurl }}">
     </a>
@@ -49,7 +49,7 @@ acknowledgements: ""
       <h6>ISTA</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://nouhadziri.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/nouha.jpg" | prepend:site.baseurl }}">
     </a>
@@ -58,7 +58,7 @@ acknowledgements: ""
       <h6>A2I</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://www.cse.msu.edu/~kordjams/">
       <img class="people-pic" src="{{ "/static/img/people/parisa.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -67,13 +67,22 @@ acknowledgements: ""
       <h6>Michigan State University</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://www.cse.msu.edu/~kordjams/">
       <img class="people-pic" src="{{ "/static/img/people/samy.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://bengio.abracadoudou.com">Samy Bengio</a>
       <h6>Apple, EPFL</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-4">
+    <a href="https://www.cse.msu.edu/~kordjams/">
+      <img class="people-pic" src="{{ "/static/img/people/noemi.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://noemielteto.github.io">Noémi Éltető</a>
+      <h6>Google Deepmind</h6>
     </div>
   </div>
 </div>
@@ -248,7 +257,7 @@ acknowledgements: ""
     <table class="table table-striped">
     <tbody>
     <tr> <th scope="row">1:30 PM</th> <td>
-      Invited Talk: TBD<br />TBD
+      Invited Talk: Noémi Éltető<br />TBD
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .

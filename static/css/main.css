@@ -136,8 +136,8 @@ pre {
 }
 
 .people-pic {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
 }
 
@@ -155,7 +155,7 @@ pre {
 }
 
 .people-name {
-  margin: 5px 0 10px;
+  margin: 10px 0 20px;
 }
 
 .people-name h6 {
