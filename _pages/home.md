@@ -13,7 +13,7 @@ acknowledgements: ""
 <div class="row" id="title">
   <div class="col-xs-12">
     <center><h4><b>The 2nd Workshop on</b></h4></center>
-    <center><h1><b>Compositional Learning: Perspectives, Methods, and Paths Forward</b></h1></center>
+    <center><h1><b>Compositional Learning: Safety, Interpretability, and Agents</b></h1></center>
     <center><h3>ICML 2026, COEX Convention & Exhibition Center (TBD) July, 2026 </h3></center>
   </div>
 </div>
@@ -23,7 +23,14 @@ acknowledgements: ""
 <div class="row">
     <div class="col-xs-12">
         <p>
-          Compositionality, defined as the ability to construct and reason about complex concepts from reusable components, is a hallmark of human cognition and the key to robust generalization. Despite the astonishing progress of modern AI systems, it remains an open question whether they truly capture and leverage the compositional nature of many real-world domains. The workshop will explore this pressing challenge across multiple critical dimensions. We will invite contributions focusing on the theoretical foundations of compositionality, its central role in the age of foundation models and agents, and its impact on achieving robustness and systematic out-of-domain generalization. Through interdisciplinary dialogue, we aim to catalyze new research directions that push the boundaries of compositional learning in advanced AI systems.
+          Compositionality, defined as the ability to construct and reason about complex concepts from reusable components, is a hallmark of human cognition and the key to robust generalization. Despite the astonishing progress of modern AI systems, it remains an open question whether they truly capture and leverage the compositional nature of many real-world domains. The workshop explores this pressing challenge across multiple critical dimensions. We invite contributions focusing on the theoretical foundations of compositionality, its central role in the age of foundation models and agents, and its impact on achieving robustness and systematic out-of-domain generalization. 
+          Among the most promising topics related to compositionality, we identify three timely and impactful foci for this edition of the workshop.
+          <ul>
+            <li><strong>How can systems generalize beyond training distributions to improve safety?</strong> Exploring the representational structures and learning dynamics that enable true compositional understanding under distribution shifts. This involves examining the roles of inductive biases, abstraction, and modularity to identify strategies that allow systems to generalize in scenarios where simple statistical correlations fail, hence improving safe deployment in real-world scenarios.</li>
+            <li><strong>How do models internally represent and learn compositionality?</strong> Investigating the mechanisms by which LLMs represent, acquire, and generalize compositional structures. This focuses on interpreting internal states, analyzing emergent behaviors, and establishing rigorous benchmarks to evaluate whether models leverage compositionality or rely on memorization.</li>
+            <li><strong>How can agents leverage compositionality for complex tasks?</strong> Studying how compositional principles drive the development of robust, generalizable agents. Key areas include the composition of skills and sub-goals for long-horizon planning, the systematic integration of retrieved knowledge and tools, and the creation of architectures that dynamically combine neural and symbolic modules to execute multi-step tasks.</li>
+          </ul>
+          Furthermore, through an interdisciplinary dialogue featuring high-profile guests from both academia and industry, we aim to catalyze new research directions that push the boundaries of compositional learning in advanced AI systems.
         </p>
     </div>
 </div>
@@ -85,6 +92,15 @@ acknowledgements: ""
       <h6>Google Deepmind</h6>
     </div>
   </div>
+  <div class="col-xs-6 col-lg-4">
+    <a href="https://research.ibm.com/people/david-cox">
+      <img class="people-pic" src="{{ "/static/img/people/david.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://research.ibm.com/people/david-cox">David Cox</a>
+      <h6>IBM Research</h6>
+    </div>
+  </div>
 </div>
 
 
@@ -133,12 +149,14 @@ acknowledgements: ""
     </p>
     <p>
           <ul>
-            <li> <b>Theoretical Foundations and General Principles of Compositionality in AI</b>: Exploring the core definitions, learning dynamics, and representational structures that enable compositional reasoning across models and domains. This includes understanding the role of inductive biases, abstraction, and modularity, as well as identifying unifying principles that can guide the development of compositional systems.</li>
-            <li> <b>Compositionality in the Age of Foundation Models</b>: Investigating how LLMs represent, learn, and generalize compositional structures, with a focus on interpretability, emergent behavior, and evaluation benchmarks.</li>
-            <li> <b>Multimodal Compositionality</b>: Exploring how compositional principles apply across modalities (e.g., text, image, video, audio).</li>
-            <li> <b>Compositionality for Robustness and Generalization</b>: Studying how structured representations and inductive biases towards compositional representations and behaviours can improve performance under distribution shifts, support zero-shot transfer, and enable continual learning.</li>
-            <li> <b>Compositionality in Action: Agentic AI, Planning, and Tool Use</b>: Investigating how compositional principles enable robust, generalizable Agentic AI. This includes studying the composition of skills and sub-goals for long-horizon planning, the systematic composition of retrieved knowledge and tools, and the development of architectures that support dynamic, on-the-fly combination of neural and symbolic modules to execute complex tasks.</li>
-            <li> <b>Applications</b>: What practical applications could benefit from systems that actively favour compositional behaviours in the near- and long-term? Example domains include sciences, engineering, finance, education, and psychology.</li>
+            <li><u>Compositionality in Action</u>: Agentic AI, Planning, and Tool Use</li>
+            <li><u>Safety</u>: architectures and representations for robust and generalizable systems</li>
+            <li><u>Explainability</u>:representations and reasoning in foundation models</li>
+            <li>Theoretical foundations and general principles of compositionality in AI</li>
+            <li>Multimodal compositionality</li>
+            <li>Modular and dynamic architectures</li>
+            <li>Continual/transfer learning through compositionality</li>
+            <li>Compositional learning for various application domains, such as computer vision, natural language processing, reinforcement learning, and science</li>
         </ul>
     </p>
     <p>We welcome review and positional papers that may foster discussions. Accepted papers will be presented during poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>non-archival</i> reports, allowing future submissions to archival conferences or journals.</p>
@@ -185,68 +203,68 @@ acknowledgements: ""
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
     <tbody>
-    <tr> <th scope="row">08:00 AM</th> <td>Poster Setup</td></tr>
-    <tr> <th scope="row">08:15 AM</th> <td>Opening Remarks</td></tr>
-    <tr> <th scope="row">08:20 AM</th> <td>
+    <tr> <th scope="row">08:45 AM</th> <td>Opening Remarks</td></tr>
+    <tr> <th scope="row">08:50 AM</th> <td>4 Spotlight Talks</td></tr>
+    <!-- <tr> <th scope="row">08:20 AM</th> <td>
       Spotlight Talk: ###<br /> TBD
-      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
-      <!-- <div class="collapse" id="schedule-talk2">
+      <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
+      <div class="collapse" id="schedule-talk2">
         Abstract: .
-      </div> -->
+      </div>
     </td></tr>
     <tr> <th scope="row">08:30 AM</th> <td>
       Spotlight Talk: ###<br />TBD
-      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
-      <!-- <div class="collapse" id="schedule-talk2">
+      <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
+      <div class="collapse" id="schedule-talk2">
         Abstract: .
-      </div> -->
+      </div>
     </td></tr>
     <tr> <th scope="row">08:40 AM</th> <td>
       Spotlight Talk: ###<br />TBD
-      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
-      <!-- <div class="collapse" id="schedule-talk2">
+      <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
+      <div class="collapse" id="schedule-talk2">
         Abstract: .
-      </div> -->
+      </div>
     </td></tr>
     <tr> <th scope="row">08:50 AM</th> <td>
       Spotlight Talk: ###<br />TBD
-      <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
-      <!-- <div class="collapse" id="schedule-talk2">
+      <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
+      <div class="collapse" id="schedule-talk2">
         Abstract: .
-      </div> -->
-    </td></tr>
-    <tr> <th scope="row">9:00 AM</th> <td>
-      Invited Talk: Francesco Locatello<br />TBD
+      </div>
+    </td></tr> -->
+    <tr> <th scope="row">9:30 AM</th> <td>
+      Invited Talk: Francesco Locatello<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a> -->
       <!-- <a target="_blank" href="/static/slides-2021/roger_levy.pdf">[Slides]</a> -->
       <!-- <div class="collapse" id="schedule-talk1">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row">9:35 AM</th> <td>
-      Invited Talk: Nohua Dziri<br />TBD
+    <tr> <th scope="row">10:05 AM</th> <td>
+      Invited Talk: Nohua Dziri<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row" >10:10 AM</th> <td>Coffee Break</td></tr>
-    <tr> <th scope="row">10:20 AM</th> <td>
-      Invited Talk: Parisa Kordjamshidi<br />TBD
+    <tr> <th scope="row" >10:40 AM</th> <td>Coffee Break</td></tr>
+    <tr> <th scope="row">10:50 AM</th> <td>
+      Invited Talk: Parisa Kordjamshidi<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row">10:55 AM</th> <td>
-      Invited Talk: Samy Bengio<br />TBD
+    <tr> <th scope="row">11:25 AM</th> <td>
+      Invited Talk: Samy Bengio<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row" >11:30 AM</th> <td>Poster Session 1</td></tr>
-    <tr> <th scope="row" >12:30 PM</th> <td>Lunch Break</td></tr>
+    <tr> <th scope="row" >12:00 AM</th> <td>Poster Session 1</td></tr>
+    <tr> <th scope="row" >13:00 PM</th> <td>Lunch Break</td></tr>
     </tbody>
     </table>
   </div>
@@ -256,21 +274,21 @@ acknowledgements: ""
   <div class="col-xs-12">
     <table class="table table-striped">
     <tbody>
-    <tr> <th scope="row">1:30 PM</th> <td>
-      Invited Talk: Noémi Éltető<br />TBD
+    <tr> <th scope="row">2:00 PM</th> <td>
+      Invited Talk: Noémi Éltető<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row">2:05 PM</th> <td>
-      Invited Talk: TBD<br />TBD
+    <tr> <th scope="row">2:35 PM</th> <td>
+      Invited Talk: David Cox<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row" >2:40 PM</th> <td>Panel Discussion</td></tr>
+    <tr> <th scope="row" >3:10 PM</th> <td>Panel Discussion</td></tr>
     <tr> <th scope="row" >4:00 PM</th> <td>Poster Session 2</td></tr>
     </tbody>
     </table>
