@@ -1,9 +1,10 @@
 ---
 layout: project
-urltitle:  "2nd Workshop on Compositional Learning: Perspectives, Methods, and Paths Forward"
-title: "2nd Workshop on Compositional Learning: Perspectives, Methods, and Paths Forward"
+urltitle:  "2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents"
+title: "2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents"
 categories: workshop, machine learning, icml, reasoning, generalization, compositionality
 permalink: /
+favicon: /static/img/lego.ico
 bibtex: true
 paper: true
 acknowledgements: ""
