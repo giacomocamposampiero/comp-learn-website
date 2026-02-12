@@ -62,7 +62,7 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "/static/img/people/nouha.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://nouhadziri.github.io">Nohua Dziri</a>
+      <a href="https://nouhadziri.github.io">Nouha Dziri</a>
       <h6>A2I</h6>
     </div>
   </div>
@@ -243,7 +243,7 @@ acknowledgements: ""
       </div> -->
     </td></tr>
     <tr> <th scope="row">10:05 AM</th> <td>
-      Invited Talk: Nohua Dziri<br />
+      Invited Talk: Nouha Dziri<br />
       <!-- <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
       <!-- <div class="collapse" id="schedule-talk2">
         Abstract: .
