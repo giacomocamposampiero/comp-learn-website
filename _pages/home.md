@@ -76,7 +76,7 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-4">
-    <a href="https://www.cse.msu.edu/~kordjams/">
+    <a href="https://bengio.abracadoudou.com">
       <img class="people-pic" src="{{ "/static/img/people/samy.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
@@ -85,7 +85,7 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-4">
-    <a href="https://www.cse.msu.edu/~kordjams/">
+    <a href="https://noemielteto.github.io">
       <img class="people-pic" src="{{ "/static/img/people/noemi.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
