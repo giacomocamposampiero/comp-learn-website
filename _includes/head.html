@@ -5,9 +5,9 @@
 
   <meta name="keywords" content={{ page.categories }}>
 
-  {% if page.favicon %}
-  <link rel="shortcut icon" href="{{ page.favicon | prepend:site.baseurl }}">
-  {% endif %}
+  <link rel="shortcut icon" href="{{ "/static/img/comp.ico" | prepend:site.baseurl }}">
+  <link rel="apple-touch-icon" href="{{ "/static/img/comp.ico" | prepend:site.baseurl }}">
+  <link rel="apple-touch-icon-precomposed" href="{{ "/static/img/comp.ico" | prepend:site.baseurl }}">
 
 
   <title>{{ page.urltitle }}</title>

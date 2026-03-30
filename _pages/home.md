@@ -4,7 +4,7 @@ urltitle:  "2nd Workshop on Compositional Learning: Safety, Interpretability, an
 title: "2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents"
 categories: workshop, machine learning, icml, reasoning, generalization, compositionality
 permalink: /
-favicon: /static/img/lego.ico
+favicon: /static/img/comp.ico
 bibtex: true
 paper: true
 acknowledgements: ""
@@ -160,7 +160,14 @@ acknowledgements: ""
             <li>Compositional learning for various application domains, such as computer vision, natural language processing, reinforcement learning, and science</li>
         </ul>
     </p>
-    <p>We welcome review and positional papers that may foster discussions. Accepted papers will be presented during poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>non-archival</i> reports, allowing future submissions to archival conferences or journals.</p>
+    <p>We welcome review and positional papers that may foster discussions. Accepted papers will be presented during poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>non-archival</i> reports, allowing future submissions to archival conferences or journals. The following dates are important for the submission:</p>
+    <p>
+          <ul>
+            <li><b>Paper submissions open</b>: March 30, 2026, AOE </li>
+            <li><b>Paper submissions deadline</b>: April 24, 2026, AOE </li>
+            <li><b>Notification to authors</b>: May 15, 2026, AOE </li>
+        </ul>
+    </p>
   </div>
 </div>
 
@@ -176,7 +183,7 @@ acknowledgements: ""
     <div class="col-xs-12">
       <p>
         <ul>
-          <li>Submission URL: https://openreview.net/ </li>
+          <li>Submission URL: <a href="https://openreview.net/group?id=ICML.cc/2026/Workshop/CompLearn">https://openreview.net/group?id=ICML.cc/2026/Workshop/CompLearn</a> </li>
           <li> Format:  All submissions must be in PDF format and anonymized. Submissions are limited to 4/8 content pages, including all figures and tables; unlimited additional pages containing references and supplementary materials are allowed. Reviewers may choose to read the supplementary materials but will not be required to.</li>
           <li> Style file:   You must format your submission using the ICML 2026 LaTeX style file. The maximum file size for submissions is 50MB. Submissions that violate the ICML style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review.</li>
           <li> Dual-submission policy:  We welcome ongoing and unpublished work. We will also accept papers that are under review at the time of submission, or that have been recently accepted without published proceedings.</li>
@@ -184,11 +191,28 @@ acknowledgements: ""
           <li> Visibility:  Submissions and reviews will not be public. Only accepted papers will be made public.</li>
           <li> Contact:  For any questions, please contact us at <a href="mailto:compositional-learning-icml-2026@googlegroups.com">compositional-learning-icml-2026@googlegroups.com</a>. </li>
         </ul>
-        If you would like to become a reviewer for this workshop, please let us know <a href="https://forms.gle/nG4idePAF4Qp6TNk8">here</a>.
+        If you would like to become a reviewer for this workshop, please let us know <a href="https://forms.gle/nG4idePAF4Qp6TNk8">https://forms.gle/nG4idePAF4Qp6TNk8</a>.
       </p>
     </div>
 </div>
 
+<hr />
+
+
+<div class="row" id="dates">
+  <div class="col-xs-12">
+    <h2>Important Dates</h2>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+      <p>
+        <ul>
+          <li></li>
+        </ul>
+      </p>
+    </div>
+</div>
 
 <hr />
 
