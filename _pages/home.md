@@ -199,24 +199,6 @@ acknowledgements: ""
 <hr />
 
 
-<div class="row" id="dates">
-  <div class="col-xs-12">
-    <h2>Important Dates</h2>
-  </div>
-</div>
-<div class="row">
-    <div class="col-xs-12">
-      <p>
-        <ul>
-          <li></li>
-        </ul>
-      </p>
-    </div>
-</div>
-
-<hr />
-
-
 
 <!-- Tentative Schedule -->
 
