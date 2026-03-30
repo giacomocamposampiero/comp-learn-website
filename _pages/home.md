@@ -146,13 +146,13 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      The authors are welcome to submit a 4-page or 8-page (short/long) paper based on in-progress work, or a relevant paper being presented at the main conference, in the following topics:
+      Authors are welcome to submit a 4-page or 8-page (short/long) paper based on in-progress work, or a relevant paper being presented at the main conference, in the following topics:
     </p>
     <p>
           <ul>
             <li><u>Compositionality in Action</u>: Agentic AI, Planning, and Tool Use</li>
             <li><u>Safety</u>: architectures and representations for robust and generalizable systems</li>
-            <li><u>Explainability</u>:representations and reasoning in foundation models</li>
+            <li><u>Explainability</u>: representations and reasoning in foundation models</li>
             <li>Theoretical foundations and general principles of compositionality in AI</li>
             <li>Multimodal compositionality</li>
             <li>Modular and dynamic architectures</li>
@@ -184,12 +184,12 @@ acknowledgements: ""
       <p>
         <ul>
           <li>Submission URL: <a href="https://openreview.net/group?id=ICML.cc/2026/Workshop/CompLearn">https://openreview.net/group?id=ICML.cc/2026/Workshop/CompLearn</a> </li>
-          <li> Format:  All submissions must be in PDF format and anonymized. Submissions are limited to 4/8 content pages, including all figures and tables; unlimited additional pages containing references and supplementary materials are allowed. Reviewers may choose to read the supplementary materials but will not be required to.</li>
-          <li> Style file:   You must format your submission using the ICML 2026 LaTeX style file. The maximum file size for submissions is 50MB. Submissions that violate the ICML style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review.</li>
-          <li> Dual-submission policy:  We welcome ongoing and unpublished work. We will also accept papers that are under review at the time of submission, or that have been recently accepted without published proceedings.</li>
-          <li> Non-archival:  The workshop is a non-archival venue and will not have official proceedings. Workshop submissions can be subsequently or concurrently submitted to other venues.</li>
-          <li> Visibility:  Submissions and reviews will not be public. Only accepted papers will be made public.</li>
-          <li> Contact:  For any questions, please contact us at <a href="mailto:compositional-learning-icml-2026@googlegroups.com">compositional-learning-icml-2026@googlegroups.com</a>. </li>
+          <li>Format: All submissions must be in PDF format and anonymized. Submissions are limited to 4/8 content pages, including all figures and tables; unlimited additional pages containing references and supplementary materials are allowed. Reviewers may choose to read the supplementary materials but will not be required to. Camera-ready versions may go up to 5/9 content pages.</li>
+          <li>Style file: You must format your submission using the <a href="https://media.icml.cc/Conferences/ICML2026/Styles/icml2026.zip">ICML 2026 LaTeX style file</a>. The maximum file size for submissions is 20MB. Submissions that violate the ICML style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review.</li>
+          <li>Dual-submission policy: We welcome ongoing and unpublished work. We will also accept papers that are under review at the time of submission, or that have been recently accepted without published proceedings.</li>
+          <li>Non-archival: The workshop is a non-archival venue and will not have official proceedings. Workshop submissions can be subsequently or concurrently submitted to other venues.</li>
+          <li>Visibility: Submissions and reviews will not be public. Only accepted papers will be made public.</li>
+          <li>Contact: For any questions, please contact us at <a href="mailto:compositional-learning-icml-2026@googlegroups.com">compositional-learning-icml-2026@googlegroups.com</a>. </li>
         </ul>
         If you would like to become a reviewer for this workshop, please let us know <a href="https://forms.gle/nG4idePAF4Qp6TNk8">https://forms.gle/nG4idePAF4Qp6TNk8</a>.
       </p>
@@ -270,7 +270,7 @@ acknowledgements: ""
         Abstract: .
       </div> -->
     </td></tr>
-    <tr> <th scope="row" >12:00 AM</th> <td>Poster Session 1</td></tr>
+    <tr> <th scope="row" >12:00 PM</th> <td>Poster Session 1</td></tr>
     <tr> <th scope="row" >13:00 PM</th> <td>Lunch Break</td></tr>
     </tbody>
     </table>
